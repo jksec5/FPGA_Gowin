@@ -1,0 +1,170 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v'
+Analyzing included file 'F:\fpga_last_test\xitongtiaoshi\yuyin\src\gowin_picorv32\temp\gowin_picorv32\pico_define.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v":2098)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v":2098)
+Analyzing included file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_config.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v":25)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v":2098)
+Analyzing included file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v":68)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v":2098)
+WARN  (EX3801) : Parameter '**' becomes localparam in '**' with formal parameter declaration list("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v":0)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v'
+Analyzing included file 'F:\fpga_last_test\xitongtiaoshi\yuyin\src\gowin_picorv32\temp\gowin_picorv32\pico_define.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v":4)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v":4)
+Analyzing included file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_config.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v":5)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v":5)
+Analyzing included file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi_config.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v":6)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v":6)
+Analyzing included file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi_const.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v":7)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v":7)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v'
+Analyzing included file 'F:\fpga_last_test\xitongtiaoshi\yuyin\src\gowin_picorv32\temp\gowin_picorv32\pico_define.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":2641)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":2641)
+Analyzing included file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_config.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":25)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":2641)
+Analyzing included file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi_config.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":68)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":2641)
+Analyzing included file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi_const.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":60)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":2641)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\ahb_bus.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_dtcm.v'
+Analyzing included file 'F:\fpga_last_test\xitongtiaoshi\yuyin\src\gowin_picorv32\temp\gowin_picorv32\pico_define.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_dtcm.v":51)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_dtcm.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_dtcm.v":51)
+Analyzing included file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_config.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_dtcm.v":25)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_dtcm.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_dtcm.v":51)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_itcm.v'
+Analyzing included file 'F:\fpga_last_test\xitongtiaoshi\yuyin\src\gowin_picorv32\temp\gowin_picorv32\pico_define.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_itcm.v":62)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_itcm.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_itcm.v":62)
+Analyzing included file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_config.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_itcm.v":25)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_itcm.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_itcm.v":62)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wb_bus.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wb_brancher.v'
+Analyzing included file 'F:\fpga_last_test\xitongtiaoshi\yuyin\src\gowin_picorv32\temp\gowin_picorv32\pico_define.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wb_brancher.v":187)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wb_brancher.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wb_brancher.v":187)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbgpio.v'
+Analyzing included file 'F:\fpga_last_test\xitongtiaoshi\yuyin\src\gowin_picorv32\temp\gowin_picorv32\pico_define.vh'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbgpio.v":88)
+Back to file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbgpio.v'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbgpio.v":88)
+WARN  (EX3788) : Block identifier is required on this block("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbgpio.v":0)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbi2c.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbspi.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbuart.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\simpleuart.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v'
+WARN  (EX2582) : Parameter 'CSR_CYCLE' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":7)
+WARN  (EX2582) : Parameter 'CSR_TIME' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":8)
+WARN  (EX2582) : Parameter 'CSR_INSTRET' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":9)
+WARN  (EX2582) : Parameter 'CSR_CYCLEH' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":11)
+WARN  (EX2582) : Parameter 'CSR_TIMEH' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":12)
+WARN  (EX2582) : Parameter 'CSR_INSTRETH' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":13)
+WARN  (EX2582) : Parameter 'CSR_DCSR' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":15)
+WARN  (EX2582) : Parameter 'CSR_DPC' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":16)
+WARN  (EX2582) : Parameter 'CSR_DSCRATCH' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":17)
+WARN  (EX2582) : Parameter 'CSR_MVENDORID' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":19)
+WARN  (EX2582) : Parameter 'CSR_MARCHID' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":20)
+WARN  (EX2582) : Parameter 'CSR_MIMPID' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":21)
+WARN  (EX2582) : Parameter 'CSR_MHARTID' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":22)
+WARN  (EX2582) : Parameter 'CSR_MSTATUS' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":24)
+WARN  (EX2582) : Parameter 'CSR_MISA' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":25)
+WARN  (EX2582) : Parameter 'CSR_MIE' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":26)
+WARN  (EX2582) : Parameter 'CSR_MTVEC' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":27)
+WARN  (EX2582) : Parameter 'CSR_MSCRATCH' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":29)
+WARN  (EX2582) : Parameter 'CSR_MEPC' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":30)
+WARN  (EX2582) : Parameter 'CSR_MCAUSE' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":31)
+WARN  (EX2582) : Parameter 'CSR_MTVAL' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":32)
+WARN  (EX2582) : Parameter 'CSR_MIP' declared inside compilation unit '$unit_c__gowin_gowin_v1_9_7beta_gowinsynthesis_only_ide_ipcore_gowinpicorv32_gowin_picorv32_picorv32_v' shall be treated as localparam("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\pico_csr_define.vh":33)
+WARN  (EX3073) : Port 'slv0_sel_o' remains unconnected for this instance("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v":656)
+Compiling module 'Gowin_PicoRV32_Top'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v":9)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v":0)
+WARN  (EX3791) : Expression size ** truncated to fit in target size **("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v":0)
+WARN  (EX3791) : Expression size ** truncated to fit in target size **("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v":0)
+WARN  (EX3826) : Parallel_case directive is effective : might cause synthesis - simulation differences("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v":0)
+WARN  (EX3827) : Full_case directive is effective : might cause synthesis - simulation differences("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picorv32.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+WARN  (EX2629) : Delay control is not supported for synthesis("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+WARN  (EX2629) : Delay control is not supported for synthesis("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+WARN  (EX2629) : Delay control is not supported for synthesis("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+WARN  (EX2629) : Delay control is not supported for synthesis("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+WARN  (EX2629) : Delay control is not supported for synthesis("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+WARN  (EX2629) : Delay control is not supported for synthesis("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+WARN  (EX3791) : Expression size ** truncated to fit in target size **("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+WARN  (EX3670) : Actual bit length ** differs from formal bit length ** for port '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\dm.v":0)
+WARN  (EX3670) : Actual bit length 1 differs from formal bit length 4 for port 'mem_read'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v":475)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_itcm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc_dtcm.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\simpleuart.v":0)
+WARN  (EX3791) : Expression size ** truncated to fit in target size **("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\simpleuart.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wb_bus.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wb_brancher.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbuart.v":0)
+WARN  (EX3780) : Using initial value of '**' since it is never assigned("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbuart.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbuart.v":0)
+WARN  (EX3791) : Expression size ** truncated to fit in target size **("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbuart.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbuart.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbuart.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbuart.v":0)
+WARN  (EX3791) : Expression size ** truncated to fit in target size **("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbuart.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbgpio.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbgpio.v":0)
+WARN  (EX2629) : Delay control is not supported for synthesis("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbgpio.v":0)
+WARN  (EX1998) : Net '**' does not have a driver("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\wbgpio.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+WARN  (EX3779) : '**' should be on the sensitivity list("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\advspi.v":0)
+WARN  (EX3670) : Actual bit length 8 differs from formal bit length 32 for port 'regspi_wb_adr_i'("C:\Gowin\Gowin_V1.9.7Beta_GowinSynthesis-only\IDE\ipcore\GowinPicoRV32\Gowin_PicoRV32\picosoc.v":819)
+NOTE  (EX0101) : Current top module is "Gowin_PicoRV32_Top"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "F:\fpga_last_test\xitongtiaoshi\yuyin\src\gowin_picorv32\temp\gowin_picorv32\gowin_picorv32.vg" completed
+Generate template file "F:\fpga_last_test\xitongtiaoshi\yuyin\src\gowin_picorv32\temp\gowin_picorv32\gowin_picorv32_tmp.v" completed
+[100%] Generate report file "F:\fpga_last_test\xitongtiaoshi\yuyin\src\gowin_picorv32\temp\gowin_picorv32\gowin_picorv32_syn.rpt.html" completed
+GowinSynthesis finish

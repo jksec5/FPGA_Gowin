@@ -1,0 +1,12 @@
+-d F:\fpga_last_test\xitongtiaoshi\yuyin\impl\gwsynthesis\yuyin.vg
+-p GW2A-18C-PBGA484-8
+-pn GW2A-LV18PG484C8/I7
+-cst F:\fpga_last_test\xitongtiaoshi\yuyin\src\yuyin.cst
+-cfg F:\fpga_last_test\xitongtiaoshi\yuyin\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-posp
+-o
+-timing
+-cst_error

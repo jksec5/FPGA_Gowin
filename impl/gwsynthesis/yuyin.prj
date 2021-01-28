@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW2A-18C" package="PBGA484" speed="8" partNumber="GW2A-LV18PG484C8/I7"/>
+    <FileList>
+        <File path="F:\fpga_last_test\xitongtiaoshi\yuyin\src\gowin_picorv32\gowin_picorv32.v" type="verilog"/>
+        <File path="F:\fpga_last_test\xitongtiaoshi\yuyin\src\smbus906.v" type="verilog"/>
+        <File path="F:\fpga_last_test\xitongtiaoshi\yuyin\src\top.v" type="verilog"/>
+        <File path="F:\fpga_last_test\xitongtiaoshi\yuyin\src\us015.v" type="verilog"/>
+        <File path="F:\fpga_last_test\xitongtiaoshi\yuyin\src\wbrgb.v" type="verilog"/>
+        <File path="F:\fpga_last_test\xitongtiaoshi\yuyin\src\yuyin.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="dsp_balance" value="0"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="F:\fpga_last_test\xitongtiaoshi\yuyin\impl\gwsynthesis\yuyin.vg"/>
+        <Option type="ram_rw_check" value="1"/>
+        <Option type="top_module" value="top"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

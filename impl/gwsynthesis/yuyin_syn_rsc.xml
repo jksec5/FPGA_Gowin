@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Lut="97">
+    <SubModule name="u0" Register="4266" Alu="768" Lut="6568" Dsp="1" Bsram="32" Ssram="24"/>
+    <SubModule name="u1" Register="157" Lut="307"/>
+    <SubModule name="u2" Register="122" Alu="30" Lut="48"/>
+    <SubModule name="u3" Register="128" Lut="135"/>
+    <SubModule name="u4" Register="122" Alu="30" Lut="47"/>
+    <SubModule name="u5" Register="134" Lut="186"/>
+</Module>

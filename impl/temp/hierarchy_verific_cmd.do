@@ -1,0 +1,8 @@
+-f F:/fpga_last_test/xitongtiaoshi/yuyin/src/gowin_picorv32/gowin_picorv32.v
+-f F:/fpga_last_test/xitongtiaoshi/yuyin/src/smbus906.v
+-f F:/fpga_last_test/xitongtiaoshi/yuyin/src/top.v
+-f F:/fpga_last_test/xitongtiaoshi/yuyin/src/us015.v
+-f F:/fpga_last_test/xitongtiaoshi/yuyin/src/wbrgb.v
+-f F:/fpga_last_test/xitongtiaoshi/yuyin/src/yuyin.v
+-l 2
+-o F:/fpga_last_test/xitongtiaoshi/yuyin/impl/temp/hierarchy_verific_parser.result

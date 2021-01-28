@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="Gowin_PicoRV32_Top" Register="4279" Alu="768" Lut="6609" Dsp="1" Bsram="32" Ssram="24"/>

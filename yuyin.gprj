@@ -1,0 +1,16 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW2A-18C" pn="GW2A-LV18PG484C8/I7">gw2a18c-021</Device>
+    <FileList>
+        <File path="src/gowin_picorv32/gowin_picorv32.v" type="file.verilog" enable="1"/>
+        <File path="src/smbus906.v" type="file.verilog" enable="1"/>
+        <File path="src/top.v" type="file.verilog" enable="1"/>
+        <File path="src/us015.v" type="file.verilog" enable="1"/>
+        <File path="src/wbrgb.v" type="file.verilog" enable="1"/>
+        <File path="src/yuyin.v" type="file.verilog" enable="1"/>
+        <File path="src/yuyin.cst" type="file.cst" enable="1"/>
+    </FileList>
+</Project>
